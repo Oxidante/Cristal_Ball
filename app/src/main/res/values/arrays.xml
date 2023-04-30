@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="challenges">
+        <item>Вызов</item>
+        <item>Сесть</item>
+        <item>Прыгать</item>
+        <item>Отжимание</item>
+        <item>Стойка на руках</item>
+        <item>Подтягивания</item>
+    </string-array>
+</resources>
